@@ -2,7 +2,7 @@
 
 **`Software Developer FullStack`**
 
-👋Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa A4PM e como Desenvolvedor FullStack trabalhando principalmente com **`React`**, **`Next.js`**, **`TypeScript`**, **`Node.js`** e **`Python`**
+👋Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa A4PM e como Desenvolvedor FullStack autônomo trabalhando principalmente com **`React`**, **`Next.js`**, **`TypeScript`**, **`Node.js`** e **`Python`**
 
 ---
 
@@ -109,6 +109,8 @@
 />
 
 <br/>
+<br/>
+
 ---
 
 ## 📬 Contato
