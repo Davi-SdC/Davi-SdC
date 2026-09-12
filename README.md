@@ -1,8 +1,8 @@
-# 👨🏾‍💻 Davi Silva
+# Davi Silva
 
 **`Software Developer FullStack`**
 
-Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa a4pm, dando suporte técnico e configurando sistemas para clientes. Concluí o ensino médio/técnico em Análise e Desenvolvimento de Sistemas pelo SESI/SENAI e sou formado em Análise e Desenvolvimento de Sistemas pela Estácio de Sá. Atualmente busco me aprofundar na carreira de Desenvolvimento Full-Stack.
+👋Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa A4PM e como Desenvolvedor FullStack trabalhando principalmente com **`React`**, **`Next.js`**, **`TypeScript`**, **`Node.js`** e **`Python`**
 
 <a href="[https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/davi-conce/)" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -12,7 +12,7 @@ Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como An
 </a>
 
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Stacks
 
 <img 
     align="left" 
