@@ -4,14 +4,6 @@
 
 👋Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa A4PM e como Desenvolvedor FullStack trabalhando principalmente com **`React`**, **`Next.js`**, **`TypeScript`**, **`Node.js`** e **`Python`**
 
-<a href="[https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/davi-conce/)" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="https://www.instagram.com/seu-usuario" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-
 ### 🤖 Stacks
 
 <img 
@@ -116,3 +108,10 @@
 
 <br/>
 <br/>
+
+## 📬 Contato
+
+[![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:davi62345@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-conce/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dcodebr)
+[![Portfólio](https://img.shields.io/badge/-mthcode.com.br-333?style=flat-square&logo=google-chrome&logoColor=white)](https://)
