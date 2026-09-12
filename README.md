@@ -4,6 +4,8 @@
 
 👋Olá, eu sou o Davi, tenho 20 anos, sou natural do Rio de Janeiro e atuo como Analista de Implantação na empresa A4PM e como Desenvolvedor FullStack trabalhando principalmente com **`React`**, **`Next.js`**, **`TypeScript`**, **`Node.js`** e **`Python`**
 
+---
+
 ### 🤖 Stacks
 
 <img 
@@ -106,12 +108,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
+---
 
 ## 📬 Contato
 
 [![Gmail](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white)](mailto:davi62345@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/davi-conce/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/dcodebr)
-[![Portfólio](https://img.shields.io/badge/-mthcode.com.br-333?style=flat-square&logo=google-chrome&logoColor=white)](https://)
